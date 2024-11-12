@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning webasembely
 - 📫 How to reach me lupinlarsson@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Now is the time. Because now is the only time you have
+- ⚡ Now is the time. Because now is the only time you have
 
 <!---
 Bror168/Bror168 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
